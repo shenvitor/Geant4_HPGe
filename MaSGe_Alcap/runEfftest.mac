@@ -11,6 +11,7 @@
 /run/verbose 2
 /tracking/verbose 0
 
+/gps/position 0. 0. -250 mm
 /gps/particle gamma
 
 # 1
