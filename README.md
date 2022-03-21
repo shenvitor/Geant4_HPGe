@@ -2,7 +2,7 @@
 To simulate the detection efficiency of HPGe detector with gamma incoming beam source
 
 The detector geometry
-incudes two scenarios: with an aluminium cap or without the aluminium
+incudes two scenarios: with an aluminium cap or without the aluminium cap
 
 The gamma source is investigating in the range between 20keV to 4MeV.
 And the source is using particle gun (pencil beam) and isotropic source,
