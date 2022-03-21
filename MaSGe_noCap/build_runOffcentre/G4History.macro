@@ -1,0 +1,54 @@
+/run/verbose 2
+/tracking/verbose 0
+/gun/particle gamma
+/gun/position 20. 0. -250 mm
+/gun/energy 20 keV
+/run/beamOn 1000000
+/gun/energy 40 keV
+/run/beamOn 1000000
+/gun/energy 60 keV
+/run/beamOn 1000000
+/gun/energy 80 keV
+/run/beamOn 1000000
+/gun/energy 100 keV
+/run/beamOn 1000000
+/gun/energy 200 keV
+/run/beamOn 1000000
+/gun/energy 400 keV
+/run/beamOn 1000000
+/gun/energy 600 keV
+/run/beamOn 1000000
+/gun/energy 800 keV
+/run/beamOn 1000000
+/gun/energy 1000 keV
+/run/beamOn 1000000
+/gun/energy 1200 keV
+/run/beamOn 1000000
+/gun/energy 1400 keV
+/run/beamOn 1000000
+/gun/energy 1600 keV
+/run/beamOn 1000000
+/gun/energy 1800 keV
+/run/beamOn 1000000
+/gun/energy 2000 keV
+/run/beamOn 1000000
+/gun/energy 2200 keV
+/run/beamOn 1000000
+/gun/energy 2400 keV
+/run/beamOn 1000000
+/gun/energy 2600 keV
+/run/beamOn 1000000
+/gun/energy 2800 keV
+/run/beamOn 1000000
+/gun/energy 3000 keV
+/run/beamOn 1000000
+/gun/energy 3200 keV
+/run/beamOn 1000000
+/gun/energy 3400 keV
+/run/beamOn 1000000
+/gun/energy 3600 keV
+/run/beamOn 1000000
+/gun/energy 3800 keV
+/run/beamOn 1000000
+/gun/energy 4000 keV
+/run/beamOn 1000000

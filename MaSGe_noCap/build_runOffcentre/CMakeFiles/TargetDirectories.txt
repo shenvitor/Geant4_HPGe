@@ -1,0 +1,3 @@
+/home/mos22_shen/Geant4/MaSGe/build_runOffcentre/CMakeFiles/rebuild_cache.dir
+/home/mos22_shen/Geant4/MaSGe/build_runOffcentre/CMakeFiles/edit_cache.dir
+/home/mos22_shen/Geant4/MaSGe/build_runOffcentre/CMakeFiles/MaSGe.dir
