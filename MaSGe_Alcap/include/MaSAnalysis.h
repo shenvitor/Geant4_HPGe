@@ -2,6 +2,7 @@
 #define MaSAnalysis_h 1
 
 #include "g4analysis_defs.hh"
+
 #include "g4root.hh"
 
 //using namespace G4Csv;
