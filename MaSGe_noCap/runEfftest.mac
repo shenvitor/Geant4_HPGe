@@ -1,0 +1,117 @@
+# Macro file for running to test the detection efficiency
+# in the range of 20keV ~ 4MeV
+
+# /gun/position 0. 0. -250 mm
+# gamma position on centre 
+# change x to 20 mm when off-centering
+
+/control/verbose 2
+/control/saveHistory
+/run/verbose 2
+/tracking/verbose 0
+
+/gun/particle gamma
+
+# 1
+/gun/energy 20 keV
+/run/beamOn 1000000
+
+# 2
+/gun/energy 40 keV
+/run/beamOn 1000000
+
+# 3
+/gun/energy 60 keV
+/run/beamOn 1000000
+
+# 4
+/gun/energy 80 keV
+/run/beamOn 1000000
+
+# 5
+/gun/energy 100 keV
+/run/beamOn 1000000
+
+# 6
+/gun/energy 200 keV
+/run/beamOn 1000000
+
+# 7
+/gun/energy 400 keV
+/run/beamOn 1000000
+
+# 8
+/gun/energy 600 keV
+/run/beamOn 1000000
+
+# 9
+/gun/energy 800 keV
+/run/beamOn 1000000
+
+# 10
+/gun/energy 1000 keV
+/run/beamOn 1000000
+
+# 11
+/gun/energy 1200 keV
+/run/beamOn 1000000
+
+# 12
+/gun/energy 1400 keV
+/run/beamOn 1000000
+
+# 13
+/gun/energy 1600 keV
+/run/beamOn 1000000
+
+# 14
+/gun/energy 1800 keV
+/run/beamOn 1000000
+
+# 15
+/gun/energy 2000 keV
+/run/beamOn 1000000
+
+# 16
+/gun/energy 2200 keV
+/run/beamOn 1000000
+
+# 17
+/gun/energy 2400 keV
+/run/beamOn 1000000
+
+# 18
+/gun/energy 2600 keV
+/run/beamOn 1000000
+
+# 19
+/gun/energy 2800 keV
+/run/beamOn 1000000
+
+# 20
+/gun/energy 3000 keV
+/run/beamOn 1000000
+
+# 21
+/gun/energy 3200 keV
+/run/beamOn 1000000
+
+# 22
+/gun/energy 3400 keV
+/run/beamOn 1000000
+
+# 23
+/gun/energy 3600 keV
+/run/beamOn 1000000
+
+# 24
+/gun/energy 3800 keV
+/run/beamOn 1000000
+
+# 25
+/gun/energy 4000 keV
+/run/beamOn 1000000
+
+
+
+
