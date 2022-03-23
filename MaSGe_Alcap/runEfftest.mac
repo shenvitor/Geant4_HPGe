@@ -1,8 +1,12 @@
 # Macro file for running to test the detection efficiency
 # in the range of 20keV ~ 4MeV
 
-# /gps/position 0. 0. -250 mm
+/gps/position 0. 0. -250 mm
 # gamma position on centre 
+
+/gps/direction 0. 0. 1.
+# direction to the centre
+
 # change x to 20 mm when off-centering
 # here is particle gps aim on the centre
 
@@ -11,7 +15,6 @@
 /run/verbose 2
 /tracking/verbose 0
 
-/gps/position 0. 0. -250 mm
 /gps/particle gamma
 
 # 1
