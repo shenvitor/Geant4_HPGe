@@ -4,11 +4,11 @@
 /gps/position 0. 0. -250 mm
 # gamma position on centre 
 
-/gps/direction 0. 0. 1.
-# direction to the centre
-
 # change x to 20 mm when off-centering
 # here is particle gps aim on the centre
+
+/gps/direction 0. 0. 1.
+# direction to the centre
 
 /control/verbose 2
 /control/saveHistory
