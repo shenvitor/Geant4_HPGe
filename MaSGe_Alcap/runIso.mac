@@ -14,103 +14,106 @@
 # Isotropic (in 4 pi all direction)
 /gps/ang/type iso
 
+# run times 100M
+#/run/beamOn 100000000
+
 # 1
 /gps/energy 20 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 2
 /gps/energy 40 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 3
 /gps/energy 60 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 4
 /gps/energy 80 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 5
 /gps/energy 100 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 6
 /gps/energy 200 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 7
 /gps/energy 400 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 8
 /gps/energy 600 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 9
 /gps/energy 800 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 10
 /gps/energy 1000 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 11
 /gps/energy 1200 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 12
 /gps/energy 1400 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 13
 /gps/energy 1600 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 14
 /gps/energy 1800 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 15
 /gps/energy 2000 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 16
 /gps/energy 2200 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 17
 /gps/energy 2400 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 18
 /gps/energy 2600 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 19
 /gps/energy 2800 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 20
 /gps/energy 3000 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 21
 /gps/energy 3200 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 22
 /gps/energy 3400 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 23
 /gps/energy 3600 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 24
 /gps/energy 3800 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
 # 25
 /gps/energy 4000 keV
-/run/beamOn 1000000
+/run/beamOn 100000000
 
