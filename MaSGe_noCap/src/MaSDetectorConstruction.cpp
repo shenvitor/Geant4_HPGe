@@ -221,7 +221,8 @@ G4VPhysicalVolume* MaSDetectorConstruction::Construct()
   detVisAtt->SetVisibility(true);
   detectorL -> SetVisAttributes(detVisAtt);
    
-  G4VisAttributes* deadVisAtt= new G4VisAttributes(G4Colour(0.0,1.0,0.0));	//green
+  //G4VisAttributes* deadVisAtt= new G4VisAttributes(G4Colour(0.0,1.0,0.0));	//green
+  G4VisAttributes* deadVisAtt= new G4VisAttributes(G4Colour(1.0,1.0,1.0));	//white
   deadVisAtt->SetVisibility(true);
   deadL -> SetVisAttributes(deadVisAtt);
 
